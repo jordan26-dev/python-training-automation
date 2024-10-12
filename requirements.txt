@@ -1,0 +1,4 @@
+pyautogui
+opencv_python
+selenium
+openpyxl
